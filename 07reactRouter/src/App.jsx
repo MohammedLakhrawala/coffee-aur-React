@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     <h1 className='bg-green-600 '>Mohammed router</h1>
+     <h1 className='bg-green-600'>Mohammed router</h1>
     </>
   )
 }
